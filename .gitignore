@@ -1,0 +1,7 @@
+.superpowers/
+.venv/
+data/*.parquet
+.ipynb_checkpoints/
+.DS_Store
+pgdata/
+ПОЯСНЕННЯ.md
